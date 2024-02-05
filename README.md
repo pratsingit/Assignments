@@ -1,2 +1,1 @@
-# PratyushChowdhury
 College Assignments
